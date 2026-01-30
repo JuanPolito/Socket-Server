@@ -1,2 +1,2 @@
-# Socket-Server-Template
- Websocket Node Server Template
+# Socket-Server
+Execute comunication in: https://websocketking.com/
